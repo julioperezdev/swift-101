@@ -19,6 +19,7 @@
 		43694903274DD8B500F0210E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		43694905274DD8B500F0210E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43694908274DD8B500F0210E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4369490F274DDB6A00F0210E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				43694903274DD8B500F0210E /* ContentView.swift */,
 				43694905274DD8B500F0210E /* Assets.xcassets */,
 				43694907274DD8B500F0210E /* Preview Content */,
+				4369490F274DDB6A00F0210E /* MyPlayground.playground */,
 			);
 			path = helloXcode;
 			sourceTree = "<group>";
