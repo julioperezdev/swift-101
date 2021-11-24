@@ -29,3 +29,8 @@ modernArray.remove(at: 1)
 for particularValue in modernArray{
     print(particularValue)
 }
+
+//operaciones adicionales
+modernArray.map(<#T##transform: (String) throws -> T##(String) throws -> T#>)
+modernArray.capacity 
+modernArray.isEmpty
