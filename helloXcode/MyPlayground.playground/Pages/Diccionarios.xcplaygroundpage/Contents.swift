@@ -19,13 +19,13 @@ newDictionary["Viloria"] = 83
 print(newDictionary)
 
 //acceso a un dato
-print(newDictionary["Viloria"]) //existe y devuelve un Optional
-print(newDictionary["Perez"]) //no existe
+print(newDictionary["Viloria"]!) //existe y devuelve un Optional
+print(newDictionary["Perez"]!) //no existe
 
 //actualizar dato
 newDictionary["Viloria"] = 12
 newDictionary.updateValue(25, forKey: "Viloria")
-print(newDictionary["Viloria"])
+print(newDictionary["Viloria"]!)
 
 //eliminar dato
 newDictionary["Julio"] = nil

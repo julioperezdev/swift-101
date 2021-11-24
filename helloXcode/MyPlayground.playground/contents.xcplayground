@@ -6,5 +6,9 @@
         <page name='Condiciones'/>
         <page name='Arrays'/>
         <page name='Diccionarios'/>
+        <page name='bucles'/>
+        <page name='optional'/>
+        <page name='funciones'/>
+        <page name=' '/>
     </pages>
 </playground>

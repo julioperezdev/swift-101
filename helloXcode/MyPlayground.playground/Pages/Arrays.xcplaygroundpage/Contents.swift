@@ -31,6 +31,6 @@ for particularValue in modernArray{
 }
 
 //operaciones adicionales
-modernArray.map(<#T##transform: (String) throws -> T##(String) throws -> T#>)
+//modernArray.map(<#T##transform: (String) throws -> T##(String) throws -> T#>)
 modernArray.capacity 
 modernArray.isEmpty
